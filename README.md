@@ -1,8 +1,9 @@
 <h1 align="center"><b>Merhaba! , Ben Mert! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?							      font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=150&lines=Profilime+Hoş+Geldin!..&hearts;++;Android+Developer;Kotlin;Flutter;Yeni+Şeyler+Öğrenmeyi+Çok+Seviyorum..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Profilime+Hoş+Geldiniz..&hearts;++;Android+Developer,;Kotlin,;Flutter,;Yeni+Şeyler+Öğrenmeyi+Çok+Seviyorum..<3"></a>
 </p>
+
 
 <br>
 
@@ -85,7 +86,7 @@
 
 <li>
 <a href="https://linkedin.com/in/mertcuman" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Hyphoresponder-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  MertOzdemir-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -94,7 +95,7 @@
 
 <li>
 <a href="mailto:ozdemir_mert@hbv.edu.tr" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Hyphoresponder-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  MertOzdemir-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
