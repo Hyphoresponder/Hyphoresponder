@@ -1,7 +1,7 @@
 [!MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
 <h1 align="center">Merhaba👋, Ben Mert Özdemir</h1>
 <h3 align="center">"Android Developer" olma yolunda Kotlin ile birlikte emin adımlarla ilerliyorum!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Vqes.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyphoresponder&label=Profile%20views&color=0e75b6&style=flat" alt="hyphoresponder" /> </p>
 
