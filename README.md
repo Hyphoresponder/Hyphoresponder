@@ -1,8 +1,10 @@
-<h1 align="center"><b>Merhaba! , Ben Mert! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=500&height=90&lines=Profilime+Hoş+Geldiniz..&hearts;++;Android+Developer,;Kotlin,;Flutter,;Yeni+Şeyler+Öğrenmeyi+Çok+Seviyorum..<3"></a>
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Profilime+Hoşgeldin!+👋;+Ben+Mert+Özdemir!;" />
+</h1>
+   
+<div align="center">
 
 
 <br>
@@ -14,13 +16,11 @@
 
 <br>
 
-- Aktif olarak "Kotlin" Öğreniyorum
-- 🌱 Tam yetkinlik kazanmak istediğim yazılım dilleri;
+🔭 Şu anda üzerinde çalıştığım uygulama : **Kendi uygulamamı geliştiriyorum**
 
-   •Kotlin
-   •Dart(Flutter)
-   •React Native
-- Şu anda Stajyer olarak veya Jr. olarak bir iş fırsatına açığım. [Özgeçmişim](https://drive.google.com/file/d/1OY6vMXBilBE4BJsk5sE4HJV-Y2iWgf7D/view?usp=sharing)
+🌱 Şu an öğrendiğim Yazılım : **Kotlin**
+
+Şu anda Stajyer olarak veya Jr. olarak bir iş fırsatına açığım. [Özgeçmişim](https://drive.google.com/file/d/1OY6vMXBilBE4BJsk5sE4HJV-Y2iWgf7D/view?usp=sharing)
 
 <br><br>
 
@@ -74,7 +74,7 @@
 <br>
 <br>
 
-## <b> Bana Ulaşın..!</b><img src="https://github.com/Hyphoresponder/Hyphoresponder/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> İletişim Adreslerim!</b><img src="https://github.com/Hyphoresponder/Hyphoresponder/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
