@@ -13,7 +13,7 @@
 
 - 📄 CV [https://drive.google.com/file/d/1OY6vMXBilBE4BJsk5sE4HJV-Y2iWgf7D/view?usp=sharing](https://drive.google.com/file/d/1OY6vMXBilBE4BJsk5sE4HJV-Y2iWgf7D/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://linkedin.com/in/mertcuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertcuman" height="30" width="40" /></a>
 </p>
