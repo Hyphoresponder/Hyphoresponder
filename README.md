@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)]
 <h1 align="center">Merhaba👋, Ben Mert Özdemir</h1>
 <h3 align="center">"Android Developer" olma yolunda Kotlin ile birlikte emin adımlarla ilerliyorum!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
