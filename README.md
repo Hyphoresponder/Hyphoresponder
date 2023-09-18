@@ -19,10 +19,9 @@
 
 - Aktif olarak "Kotlin" Öğreniyorum
 - 🌱 Tam yetkinlik kazanmak istediğim yazılım dilleri;
+
    •Kotlin
-
    •Dart(Flutter)
-
    •React Native
 - Şu anda Stajyer olarak veya Jr. olarak bir iş fırsatına açığım. [Özgeçmişim](https://drive.google.com/file/d/1OY6vMXBilBE4BJsk5sE4HJV-Y2iWgf7D/view?usp=sharing)
 
