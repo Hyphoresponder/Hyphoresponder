@@ -58,8 +58,6 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyphoresponder&show_icons=true&locale=en&layout=compact" alt="hyphoresponder" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyphoresponder&show_icons=true&locale=en" alt="hyphoresponder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyphoresponder&" alt="hyphoresponder" /></p>
