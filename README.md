@@ -18,7 +18,7 @@
 
 🔭 Şu anda üzerinde çalıştığım uygulama : **Kendi mobil uygulamamı geliştiriyorum**
 
-🌱 Şu an öğrendiğim Yazılım : **Python**
+🌱 Şu an öğrendiğim Yazılım : **Python, MySQL**
 
  Stajyer olarak veya Jr. olarak bir iş fırsatına açığım. [Özgeçmişim](https://drive.google.com/file/d/1OY6vMXBilBE4BJsk5sE4HJV-Y2iWgf7D/view?usp=sharing)
 
