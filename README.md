@@ -16,9 +16,9 @@
 
 <br>
 
-🔭 Şu anda üzerinde çalıştığım uygulama : **Kendi uygulamamı geliştiriyorum**
+🔭 Şu anda üzerinde çalıştığım uygulama : **Kendi mobil uygulamamı geliştiriyorum**
 
-🌱 Şu an öğrendiğim Yazılım : **Kotlin**
+🌱 Şu an öğrendiğim Yazılım : **Python**
 
  Stajyer olarak veya Jr. olarak bir iş fırsatına açığım. [Özgeçmişim](https://drive.google.com/file/d/1OY6vMXBilBE4BJsk5sE4HJV-Y2iWgf7D/view?usp=sharing)
 
@@ -41,9 +41,9 @@
     
 - **🌱 Tam yetkinlik kazanmak istediğim yazılım dilleri**:
 
-   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 <br>
 
